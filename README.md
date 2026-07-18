@@ -25,10 +25,10 @@ O manipulador foi projetado estritamente sob as seguintes limitações do edital
 
 ## 📂 Estrutura do Repositório
 
-* `/cad` - Arquivos de modelagem 3D, malhas e imagens do conjunto montado do manipulador[cite: 1].
-* `/eletronica` - Diagramas e esquemáticos eletrônicos (desenvolvidos em Altium/EasyEDA)[cite: 1].
-* `/src` - Código-fonte de controle do braço e dos sistemas integrados de amostragem[cite: 1].
-* `/docs` - Relatório Técnico Final detalhado (PDF) e listas de orçamento/frete[cite: 1].
+* `/cad` - Arquivos de modelagem 3D, malhas e imagens do conjunto montado do manipulador.
+* `/electronics` - Diagramas e esquemáticos eletrônicos.
+* `/src` - Código-fonte de controle do braço e dos sistemas integrados de amostragem.
+* `/docs` - Relatório Técnico Final detalhado e listas de orçamento/frete.
 
 ---
 
